@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Display &#45; This is RMUTL",
+      "setup": "g++ -o a.out ./Homework/HW01/hw01-2-fix-bug.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "This is RMUTL.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
